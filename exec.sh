@@ -1,0 +1,1 @@
+echo "Welocme to GIT"
